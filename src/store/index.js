@@ -21,7 +21,7 @@ export default new Vuex.Store({
     musicPlayer: null,
     supportedMusicPlayers: [new MusicPlayerWebAudio(), new MusicPlayerESP32()],
     blacklist: [],
-    resourceAddress: "https://pschatzmann.github.io"
+    resourceAddress: "https://ast-esp-rasp.github.io/"
 
   },
   mutations: {
