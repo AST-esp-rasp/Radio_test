@@ -20,7 +20,7 @@ module.exports = {
     "vuetify"
   ],
   publicPath: process.env.NODE_ENV === 'production'
-  ? '/VUE/vue-radio/dist/'
+  ? '/Radio_test/dist/'
   : '/',
 
 }
